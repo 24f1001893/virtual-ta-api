@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Virtual TA API
 
 ## 🔧 Setup Instructions (Windows)
@@ -13,3 +14,6 @@ python app.py
 ```
 
 4. Use Postman or curl to POST questions to `http://127.0.0.1:5000/api/`.
+=======
+# virtual-ta-api
+>>>>>>> origin/main
